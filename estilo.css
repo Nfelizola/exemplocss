@@ -42,6 +42,7 @@ body {
   margin-top: -10rem;
   margin-left: -10rem;
   transition: all 0.5s cubic-bezier(0.55, 0, 0.1, 1), letter-spacing 1.5s ease-out;
+  font-bold: true;
 }
 .badge .text {
   display: block;
